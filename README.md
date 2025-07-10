@@ -21,26 +21,26 @@
 
 ---
 
-#### 1. [基于贝叶斯方法的全球健康支出与人均寿命关系分析](https://github.com/n96wang/Bayesian-Health-Expenditure-Analysis)
+#### 1. [基于贝叶斯方法的全球健康支出与人均寿命关系分析](https://github.com/nan2288/Bayesian-Health-Expenditure-Analysis)
 本项目采用**贝叶斯多层线性模型**，深入分析了全球186个国家的健康、经济与环境数据。它超越了传统的频率派方法，通过量化参数的**不确定性**和国家的**随机效应**，为复杂的全球性政策制定问题提供了更深层次、更稳健的数据洞察。项目揭示了健康投资的显著回报，并对CO₂排放等指标的“发展代理”现象给出了深刻解释。
 * **技术栈:** `R` `贝叶斯建模 (Stan)` `MCMC` `多层线性模型` `数据可视化`
 
 ---
 
-#### 2. [电商评论情感分析与用户洞察](https://github.com/n96wang/Amazon-Review-Sentiment-Analysis)
+#### 2. [电商评论情感分析与用户洞察](https://github.com/nan2288/Amazon-Review-Sentiment-Analysis)
 这是一个**端到端的NLP解决方案**，旨在将非结构化的用户评论转化为可行动的商业价值。项目覆盖了从数据清洗、特征工程到**多模型对比**的全过程，最终实现了从**朴素贝叶斯**到**PyTorch神经网络**的多种分类器，并对模型性能进行了深入分析。
 * **技术栈:** `Python` `PyTorch` `Scikit-learn` `NLTK` `Gensim (Word2Vec)` `NLP`
 
 ---
 
-#### 3. [跨网络技术(4G/5G/Wi-Fi)带宽性能的实证评估分析](https://github.com/n96wang/Mobile-Bandwidth-Performance-Evaluation)
+#### 3. [跨网络技术(4G/5G/Wi-Fi)带宽性能的实证评估分析](https://github.com/nan2288/Mobile-Bandwidth-Performance-Evaluation))
 > **项目亮点：** 这是一份详细的**研究计划书**，完整展示了从0到1设计一个复杂机器学习项目的系统性思维。
 本项目旨在通过实证评估，量化分析不同网络类型、设备和地理位置如何影响用户感知的网络带宽。计划书中包含了完整的技术蓝图，从**数据预处理策略**（如标准化、独热编码），到**多模型评估框架**（如随机森林、梯度提升机），再到严谨的**模型验证方案**（如K-Fold交叉验证、L1/L2正则化），展现了全面的项目规划与风险控制能力。
 * **计划技术栈:** `Python` `Scikit-learn (回归/分类)` `模型验证` `特征工程`
 
 ---
 
-#### 4. [全球人均寿命影响因素的量化建模与分析](https://github.com/n96wang/Global-Life-Expectancy-Analysis)
+#### 4. [全球人均寿命影响因素的量化建模与分析](https://github.com/nan2288/Global-Life-Expectancy-Analysis)
 本项目基于WHO覆盖183个国家的数据，构建**多元线性回归模型**，旨在识别影响人均寿命的关键驱动因素。项目重点解决了数据中高达50%的缺失值问题，设计并实施了**基于回归树(CART)的插补方案**。通过应用**反向逐步回归**进行特征筛选，并对非正态变量进行变换，显著提升了模型的解释能力 (Adjusted R²从0.829提升至0.844)。
 * **技术栈:** `R` `线性回归` `CART插补` `特征工程` `模型优化`
 ---
