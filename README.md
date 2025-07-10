@@ -1,6 +1,6 @@
 ### 你好，我是王楠 (Nan Wang) 👋
 
-[cite_start]我目前是**滑铁卢大学管理科学硕士**在读生 [cite: 493, 497, 535]，致力于通过数据分析驱动商业决策和构建智能产品。我的本科财务管理背景与研究生阶段的数据科学、机器学习训练，使我能够更好地连接复杂的技术模型与真实的商业世界。
+我目前是**滑铁卢大学管理科学硕士**在读生，致力于通过数据分析驱动商业决策和构建智能产品。我的本科财务管理背景与研究生阶段的数据科学、机器学习训练，使我能够更好地连接复杂的技术模型与真实的商业世界。
 
 我目前正在积极寻找 **数据科学、量化金融、商业/战略分析、AI/数据产品经理** 方向的实习或全职机会。
 
@@ -8,10 +8,10 @@
 
 ### 🔧 技术栈 (Tech Stack)
 
-* [cite_start]**编程与数据库:** Python (精通 Pandas, NumPy, Scikit-learn), SQL (精通复杂查询, 窗口函数), R, MySQL, Git [cite: 572]
-* [cite_start]**机器学习:** 监督学习 (线性回归, GBT, SVM 等), NLP (文本预处理, TF-IDF, Word2Vec), 时间序列 (ARIMA) [cite: 573, 574]
-* [cite_start]**商业与量化:** 市场分析、案例研究(Case Study)、财务分析 (杜邦分析, Z-Score) [cite: 38, 575]
-* [cite_start]**可视化工具:** Tableau, Power BI, Excel (数据透视表, VLOOKUP, Solver) [cite: 39, 40]
+* **编程与数据库:** Python (精通 Pandas, NumPy, Scikit-learn), SQL (精通复杂查询, 窗口函数), R, MySQL, Git 
+* **机器学习:** 监督学习 (线性回归, GBT, SVM 等), NLP (文本预处理, TF-IDF, Word2Vec), 时间序列 (ARIMA) 
+* **商业与量化:** 市场分析、案例研究(Case Study)、财务分析 (杜邦分析, Z-Score) 
+* **可视化工具:** Tableau, Power BI, Excel (数据透视表, VLOOKUP, Solver)
 
 ---
 
@@ -21,11 +21,11 @@
 
 | 项目名称 | 核心价值与简介 | 主要技术 |
 |---|---|---|
-| **[全球人均寿命影响因素量化分析](https://github.com/n96wang/REPO_NAME_1)** | [cite_start]深入分析WHO覆盖183个国家的数据，量化影响人均寿命的关键驱动因素 [cite: 18][cite_start]。项目完整展示了从数据插补、特征筛选到模型优化与验证的全过程，旨在为国际组织的政策制定提供量化依据 [cite: 19]。 | `R` `线性回归` `CART插补` `特征工程` `模型优化` |
-| **[基于NLP的电商评论情感分析](https://github.com/n96wang/REPO_NAME_2)** | [cite_start]搭建自动化文本分析流程，精准识别用户情感倾向，为产品优化和市场营销提供洞察 [cite: 31]。项目对比了从朴素贝叶斯到PyTorch神经网络等多种模型，展现了端到端的NLP项目实践能力。 | `Python` `PyTorch` `Scikit-learn` `NLTK` `Gensim` `NLP` |
+| **[全球人均寿命影响因素量化分析](https://github.com/n96wang/REPO_NAME_1)** | 深入分析WHO覆盖183个国家的数据，量化影响人均寿命的关键驱动因素。项目完整展示了从数据插补、特征筛选到模型优化与验证的全过程，旨在为国际组织的政策制定提供量化依据 。 | `R` `线性回归` `CART插补` `特征工程` `模型优化` |
+| **[基于NLP的电商评论情感分析](https://github.com/n96wang/REPO_NAME_2)** | 搭建自动化文本分析流程，精准识别用户情感倾向，为产品优化和市场营销提供洞察。项目对比了从朴素贝叶斯到PyTorch神经网络等多种模型，展现了端到端的NLP项目实践能力。 | `Python` `PyTorch` `Scikit-learn` `NLTK` `Gensim` `NLP` |
 
 ---
 
 ### 📫 联系方式 (Contact Me)
 
-* [cite_start]**邮箱 (Email):** wangnan2288@outlook.com [cite: 5, 496, 538]
+* **邮箱 (Email):** wangnan2288@outlook.com
