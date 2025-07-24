@@ -29,26 +29,32 @@
 
 ---
 
-#### 3. [基于贝叶斯方法的全球健康支出与人均寿命关系分析](https://github.com/nan2288/Global-Life-Expectancy-Analysis)
+#### 3. [银行精准营销响应预测 (商业分析与建模)](https://github.com/nan2288/Bank-Marketing-Prediction)
+> **项目亮点：** 本项目展示了将数据科学应用于**驱动业务增长**的能力。通过对客户画像和历史行为进行深度EDA，挖掘出影响客户购买决策的关键因素，并识别出**“数据泄露”**风险。最终构建的**LightGBM模型**能有效预测客户营销响应，其分析框架可直接为银行的**客户分层和精准营销**策略提供数据支持。
+* **技术栈:** `Python` `LightGBM` `商业分析 (BA)` `客户画像` `精准营销`
+
+---
+
+#### 4. [基于贝叶斯方法的全球健康支出与人均寿命关系分析](https://github.com/nan2288/Global-Life-Expectancy-Analysis)
 本项目采用**贝叶斯多层线性模型**，深入分析了全球186个国家的健康、经济与环境数据。它超越了传统的频率派方法，通过量化参数的**不确定性**和国家的**随机效应**，为复杂的全球性政策制定问题提供了更深层次、更稳健的数据洞察。
 * **技术栈:** `R` `贝叶斯建模 (Stan)` `MCMC` `多层线性模型`
 
 ---
 
-#### 4. [电商评论情感分析与用户洞察](https://github.com/nan2288/Amazon-Review-NLP-Sentiment-Analysis)
+#### 5. [电商评论情感分析与用户洞察](https://github.com/nan2288/Amazon-Review-NLP-Sentiment-Analysis)
 这是一个**端到端的NLP解决方案**，旨在将非结构化的用户评论转化为可行动的商业价值。项目覆盖了从数据清洗、特征工程到**多模型对比**的全过程，最终实现了从**朴素贝叶斯**到**PyTorch神经网络**的多种分类器。
 * **技术栈:** `Python` `PyTorch` `Scikit-learn` `NLTK` `NLP`
 
 ---
 
-#### 5. [跨网络技术(4G/5G/Wi-Fi)带宽性能的实证评估分析](https://github.com/nan2288/Mobile-Bandwidth-Performance-Evaluation))
+#### 6. [跨网络技术(4G/5G/Wi-Fi)带宽性能的实证评估分析](https://github.com/nan2288/Mobile-Bandwidth-Performance-Evaluation))
 > **项目亮点：** 这是一份详细的**研究计划书**，完整展示了从0到1设计一个复杂机器学习项目的系统性思维。
 本项目旨在通过实证评估，量化分析不同网络类型、设备和地理位置如何影响用户感知的网络带宽。计划书中包含了完整的技术蓝图，从**数据预处理策略**（如标准化、独热编码），到**多模型评估框架**（如随机森林、梯度提升机），再到严谨的**模型验证方案**（如K-Fold交叉验证、L1/L2正则化），展现了全面的项目规划与风险控制能力。
 * **计划技术栈:** `Python` `Scikit-learn (回归/分类)` `模型验证` `特征工程`
 
 ---
 
-#### 6. [【进行中】点击诱饵检测与摘要生成挑战赛 (Kaggle)](https://github.com/MSE-641-NLP/default-project-milestone-n96wang)
+#### 7. [【进行中】点击诱饵检测与摘要生成挑战赛 (Kaggle)](https://github.com/MSE-641-NLP/default-project-milestone-n96wang)
 这是一个旨在解决**点击诱饵(Clickbait)问题**的Kaggle竞赛项目。项目的目标是构建先进的NLP模型来完成两项具有挑战性的核心任务：
 * **剧透类型分类 (Spoiler Type Classification):** 判断一篇点击诱饵文章需要何种类型的剧透（短语、段落或多点罗列）。
 * **剧透文本生成 (Spoiler Generation):** 自动生成能揭示文章真实内容的剧透文本。
